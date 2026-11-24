@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IntegracionApplication",
+            "request": "launch",
+            "mainClass": "IntegracionApplication",
+            "projectName": "integracion"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "IntegracionApplication",
+            "request": "launch",
+            "mainClass": "com.banqueteria.integracion.IntegracionApplication",
+            "projectName": "integracion"
+        },
+        {
+            "type": "java",
+            "name": "ReservasApplication",
+            "request": "launch",
+            "mainClass": "com.banqueteria.reservas.ReservasApplication",
+            "projectName": "reservas"
+        },
+        {
+            "type": "java",
+            "name": "UsuariosApplication",
+            "request": "launch",
+            "mainClass": "com.banqueteria.usuarios.UsuariosApplication",
+            "projectName": "usuarios"
+        }
+    ]
+}
