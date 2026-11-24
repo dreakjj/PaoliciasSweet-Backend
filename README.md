@@ -47,3 +47,5 @@ Aplicación móvil y arquitectura de microservicios desarrollada en equipo para 
    ```bash
    git clone [https://github.com/dreakjj/PaoliciasSweet-Backend.git](https://github.com/dreakjj/PaoliciasSweet-Backend.git)
    cd PaoliciasSweet-Backend
+### 2. despliegue en aws con instancia ec2
+      http://98.84.141.134:9000
